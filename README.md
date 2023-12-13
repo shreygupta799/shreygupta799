@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyansh Gupta</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
+![til](https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif)
 
 
 - 🌱 I’m currently learning **Flutter**
