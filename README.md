@@ -7,7 +7,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **shreygupta799@gmail.com**
 
